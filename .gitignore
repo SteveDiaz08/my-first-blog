@@ -3,3 +3,9 @@ __pycache__
 PWeb
 db.sqlite3
 .DS_STORE
+bin
+include
+lib
+local
+manage.py
+pip-selfcheck.json
